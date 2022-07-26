@@ -1,3 +1,5 @@
 learning Git 
 
 Succesfully pushed first time.
+
+pushing done with second time.
