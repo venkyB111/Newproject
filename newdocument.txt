@@ -1,0 +1,12 @@
+learning Git 
+
+Succesfully pushed first time.
+
+pushing done with second time.
+
+understanding good and ready to push one more time.
+
+gettting confidenc to edit a document and how we pushed into it.
+
+Intially added a doc and edited 5 times and i pulled it each time.
+ Now i clearly know how to edit and how to pull. knew commands for these...
